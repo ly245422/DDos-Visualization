@@ -16,7 +16,7 @@ python main.py
 ```
 
 ## 👀 Contact Me
-If you have any questions, please feel free to email us at yue@3184@gmail.com
+If you have any questions, please feel free to email me at yue@3184@gmail.com
 
 
 
