@@ -7,8 +7,8 @@
 This is a visual interface of a DDos solution based on PyQt5.
 
 ## Setup
-python==3.9.0 <br />
-PyQt5==5.15.9
+python == 3.9.0 <br />
+PyQt5  == 5.15.9
 
 ### 🚀 Run
 ```
