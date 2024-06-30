@@ -1,9 +1,7 @@
-<div align="center">
-
-## Visualization of a Solution to Edge Computing DDos Attacks
+# Visualization of a Solution to Edge Computing DDos Attacks
 
 ## Visual interface
-![Teaser figure](scripts/interface.png)
+![Teaser figure](interface.png)
 
 ## Introduction
 This is a visual interface of a DDos solution
